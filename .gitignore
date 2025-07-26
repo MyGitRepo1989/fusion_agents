@@ -1,0 +1,9 @@
+*.log
+*.env
+work.ipynb
+data_processing/
+observe_lab/
+ragtest.py
+4insights_api.py
+3make_vectors.py
+.DS_Store
