@@ -77,5 +77,10 @@
   <pre><code>Hospital_Chat = HospitalAgent()
 response = Hospital_Chat.run("My father has high BP, what should we do?")</code></pre>
 
-  <p>Make sure <code>graph1.py</code> and all routes are compiled without invalid nodes.</p>
+  <p>Make sure <code>graph1.py</code> and all routes are compiled without invalid nodes.</p> <br>
+<img width="1226" height="431" alt="Screen Shot 2025-07-27 at 7 39 20 PM" src="https://github.com/user-attachments/assets/581390f2-e93c-4b8e-99c9-f642340ce6d1" /><br>
+
+<img width="1221" height="460" alt="Screen Shot 2025-07-27 at 7 40 25 PM" src="https://github.com/user-attachments/assets/bd64634a-b03b-4579-bc86-d58e89e67242" /><br>
+
+  
 </body>
