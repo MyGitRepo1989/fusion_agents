@@ -2,7 +2,7 @@
 
 <body>
   <h1>Indian Hospital Query Bot </h1>
-
+  <h3> Source code in Master branch </h3> <br>
   <h2>Overview</h2>
   <p>This project fine-tunes and deploys a medical query assistant for hospital-style responses using LLMs. It uses a two-stage architecture for factual response generation and stylistic adaptation. The system also intelligently routes queries based on medical relevance.</p>
 
